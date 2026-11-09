@@ -1,0 +1,82 @@
+JIYYANI JEEVAN KUMAR
+AI ENGINEER | MACHINE LEARNING | GENERATIVE AI & CLOUD
+Hyderabad, India | +91-9391340978 | jiyyanijeevankumar@gmail.com
+GitHub: https://github.com/Jeevan-kumar-15 | LinkedIn: https://linkedin.com/in/jeevan-kumar-jiyyani
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Computer Science graduate with an 8.12/10 CGPA, two completed cloud and AI certifications, and project work across computer vision, machine-learning classification, resume analysis, and AI-enabled job matching. Uses Python and data-processing workflows to build and assess technical solutions. Knowledge spans ML, Deep Learning, Data Science, and Generative AI concepts including LLMs, Retrieval-Augmented Generation (RAG), vector embeddings, and autonomous AI agents. AWS Certified Cloud Practitioner and Microsoft Certified: Azure AI Fundamentals (AI-900), with a focus on building practical, testable AI applications.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+- Programming: Python, SQL, JavaScript
+- Generative AI & Agentic AI: LLM Fundamentals, Prompt Engineering, RAG Concepts, Embeddings, Semantic Search, AI Agents and Tool-Calling Concepts
+- Machine Learning & Data Science: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn; EDA, Data Cleaning, Preprocessing, Feature Engineering, Classification, Regression, Model Evaluation, Hyperparameter Tuning
+- Deep Learning & Computer Vision: PyTorch, TensorFlow, Keras, OpenCV, YOLO; Neural Networks, Object Detection, Image Processing, Inference
+- Application Development: Django, FastAPI, Streamlit, REST APIs
+- Databases & Cloud: MySQL, PostgreSQL, MongoDB, Amazon Web Services (AWS EC2, S3, Lambda, IAM) and Microsoft Azure
+- Developer Tools & CI/CD: Git, GitHub, GitHub Actions, Docker, Linux, VS Code, Jupyter Notebook
+
+================================================================================
+INTERNSHIP EXPERIENCE
+================================================================================
+AWS Cloud Intern | Techwing, Rajahmundry                           February 2024 – August 2024
+• Automated Python-based provisioning workflows across 4 AWS services: EC2, S3, Lambda, and IAM.
+• Improved deployment efficiency by approximately 40% through workflow automation.
+• Configured IAM roles and permissions to control access to cloud resources.
+• Supported cloud resource management and deployment activities.
+
+AI & Machine Learning Intern | Blackbucks, Tirupati                May 2023 – June 2023
+• Prepared datasets through data cleaning, preprocessing, and feature engineering.
+• Developed predictive models using Python, Pandas, NumPy, and Scikit-learn.
+• Evaluated supervised learning models using performance metrics to compare model results.
+• Analyzed model outputs to support model selection.
+
+================================================================================
+SELECTED PROJECTS
+================================================================================
+1. Crowd Management Using AI
+   Python | YOLOv8 | OpenCV | DeepSORT | Streamlit | PyTorch
+   • Real-time video analysis workflow to detect people, estimate crowd density, and identify anomalies.
+   • Object tracking across video frames to reduce duplicate counts with spatial heatmaps.
+
+2. AI-Enhanced Job Matching Portal (AI Job Connect)
+   Python | AI/ML | SQL | React.js | FastAPI
+   • Job-discovery workflow comparing candidate skill profile information with vacancy requirements.
+   • Semantic vector scoring and ranking connecting applicants with relevant opportunities.
+
+3. AI Resume Analyzer
+   Python | Django | NLP | HTML | CSS | JavaScript
+   • Resume upload and parsing workflow extracting candidate details and matching skills with requirements.
+   • Provides ATS scoring and improvement suggestions.
+
+4. Heart Disease Detection
+   Python | Pandas | NumPy | Scikit-learn | Machine Learning
+   • Tabular health data risk analysis handling missing values and encoding categorical features.
+   • Evaluated supervised classification models.
+
+5. REST API Automation Testing Framework
+   Python | Pytest | Requests | JSON Schema | GitHub Actions
+   • Automated 78 test cases across CRUD operations with 100% recorded pass rate.
+   • Validated status codes (200, 201, 400, 401, 404, 422) and JSON schemas.
+   • Integrated GitHub Actions CI/CD to execute regression tests on commit.
+
+================================================================================
+EDUCATION
+================================================================================
+B.Tech. in Computer Science and Engineering                         2022 – 2025
+GIET Engineering College, Rajahmundry                               CGPA: 8.12 / 10
+
+Diploma in Mechanical Engineering                                   2019 – 2022
+M.R.A.G.R Government Polytechnic College, Vizianagaram              CGPA: 8.84 / 10
+
+SSC                                                                 2018 – 2019
+AP Model School, Narsipatnam                                        CGPA: 9.5 / 10
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+• AWS Certified Cloud Practitioner
+• Microsoft Certified: Azure AI Fundamentals (AI-900)
